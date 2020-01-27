@@ -63,7 +63,7 @@ body {
   
   #masthead {
     position: fixed;
-    z-index: 99;
+    z-index: 100;
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
@@ -126,6 +126,7 @@ body {
     border-top: 8px solid darkblue;
     height: 50px;
     width: 100%;
+    
   }
   
   
